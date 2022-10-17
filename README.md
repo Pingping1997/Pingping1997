@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pingping1997
-- 👀 I’m interested in Carbon capture, utilization and storage.
+- 👀 I’m interested in energy systems modeling and integration. 
 - 🌱 I’m currently learning at TU Vienna.
 - 💞️ I’m looking to collaborate on Process system engineering.
-- 📫 How to reach me ...
+- 📫 Feel free to reach me by pingping.wang@tuwien.ac.at
 
 <!---
 Pingping1997/Pingping1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
