@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pingping1997
 - 👀 I’m interested in energy systems modeling and integration. 
-- 🌱 I’m currently learning at TU Vienna.
+- 🌱 I’m currently learning Julia, Python, GAMs, SimaPro and GaBi.
 - 💞️ I’m looking to collaborate on Process system engineering.
 - 📫 Feel free to reach me by pingping.wang@tuwien.ac.at
 
