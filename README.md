@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pingping1997
 - 👀 I’m interested in energy systems modeling and integration of CCUS.
 - 👀 I’m also interested about optimization under uncertainty.
-- 🌱 I’m currently learning Julia, Python, GAMs, SimaPro and GaBi.
-- 💞️ I’m looking to collaborate on Process system engineering.
+- 🌱 I’m currently learning and using Julia, Python, GAMs, SimaPro and GaBi.
+- 💞️ I’m looking to collaborate on Process systems engineering.
 - 📫 Feel free to reach me by pingping.wang@tuwien.ac.at
 
 <!---
