@@ -3,7 +3,7 @@
 - 👀 I’m also interested about optimization under uncertainty.
 - 🌱 Optimization & Data: Julia, Python, GAMs, R, VS Code user & learner.
 - 🌱 Life Cycle Assessment: SimaPro, openLCA, econivent, prospective LCA.
-- 💞️ Process systems engineering & Carbon Capture, Storage and Utilization.
+- 💞️ Process systems engineering & Carbon Capture, Storage, Transportation and Utilization.
 - 📫 Feel free to reach me by pingping.wang@tuwien.ac.at
 
 <!---
