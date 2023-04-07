@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Pingping1997
-- 👀 I’m interested in integration of CCUS and open source modelling.
+- 👀 I’m focusing on the integration of CCS/CCU and systems modelling.
 - 👀 I’m also interested about optimization under uncertainty.
-- 🌱 Optimization: Julia, Python, GAMs user.
+- 🌱 Optimization&Data: Julia, Python, GAMs, R user.
 - 🌱 Life Cycle Assessment: SimaPro, openLCA, econivent, prospective LCA.
-- 💞️ I’m looking to collaborate on Process systems engineering & CCUS.
+- 💞️ Process systems engineering & Carbon Capture, Storage and Utilization.
 - 📫 Feel free to reach me by pingping.wang@tuwien.ac.at
 
 <!---
