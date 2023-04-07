@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pingping1997
 - 👀 I’m focusing on the integration of CCS/CCU and systems modelling.
 - 👀 I’m also interested about optimization under uncertainty.
-- 🌱 Optimization&Data: Julia, Python, GAMs, R user.
+- 🌱 Optimization & Data: Julia, Python, GAMs, R, VS Code user & learner.
 - 🌱 Life Cycle Assessment: SimaPro, openLCA, econivent, prospective LCA.
 - 💞️ Process systems engineering & Carbon Capture, Storage and Utilization.
 - 📫 Feel free to reach me by pingping.wang@tuwien.ac.at
